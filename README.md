@@ -6,3 +6,4 @@
 4.  Last Moment Before All Ants Fall Out of a Plank
 5.  Find the Winner of an Array Game
 6.  Seat Reservation Manager
+7.  Eliminate Maximum Number of Monsters
