@@ -7,3 +7,4 @@
 5.  Find the Winner of an Array Game
 6.  Seat Reservation Manager
 7.  Eliminate Maximum Number of Monsters
+8.  Determine if a Cell Is Reachable at a Given Time
