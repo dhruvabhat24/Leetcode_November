@@ -8,3 +8,4 @@
 6.  Seat Reservation Manager
 7.  Eliminate Maximum Number of Monsters
 8.  Determine if a Cell Is Reachable at a Given Time
+9.  Count Number of Homogenous Substrings
