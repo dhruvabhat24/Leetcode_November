@@ -14,3 +14,4 @@
 12. Bus Routes
 13. Sort Vowels in a String
 14. Unique Length-3 Palindromic Subsequences
+15. Maximum Element After Decreasing and Rearranging
