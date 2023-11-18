@@ -17,3 +17,4 @@
 15. Maximum Element After Decreasing and Rearranging
 16. Find Unique Binary String
 17. Minimize Maximum Pair Sum in Array
+18. Frequency of the Most Frequent Element
