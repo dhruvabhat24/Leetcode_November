@@ -18,3 +18,4 @@
 16. Find Unique Binary String
 17. Minimize Maximum Pair Sum in Array
 18. Frequency of the Most Frequent Element
+19. Reduction Operations to Make the Array Elements Equal
