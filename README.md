@@ -22,3 +22,4 @@
 20. Minimum Amount of Time to Collect Garbage
 21. Count Nice Pairs in an Array
 22. Diagonal Traverse II
+23. Arithmetic Subarrays
