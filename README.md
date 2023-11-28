@@ -27,3 +27,4 @@
 25. Sum of Absolute Differences in a Sorted Array
 26. Largest Submatrix With Rearrangements
 27. Knight Dialer
+28. Number of Ways to Divide a Long Corridor
