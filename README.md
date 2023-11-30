@@ -29,3 +29,4 @@
 27. Knight Dialer
 28. Number of Ways to Divide a Long Corridor
 29. Number of 1 Bits
+30. Minimum One Bit Operations to Make Integers Zero
